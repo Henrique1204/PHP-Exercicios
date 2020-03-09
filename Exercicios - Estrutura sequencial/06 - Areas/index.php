@@ -8,9 +8,9 @@
     </head>
     <body>
         <form method="get">
-            <label for="numA" class="campo">Digite o código da peça: <input type="text" name="numA" id="numA"></label>
-            <label for="numB" class="campo">Digite a quantida de peças: <input type="text" name="numB" id="numB"></label>
-            <label for="numC" class="campo">Digite o preço: <input type="text" name="numC" id="numC"></label>
+            <label for="numA" class="campo">Digite o valor de A: <input type="text" name="numA" id="numA"></label>
+            <label for="numB" class="campo">Digite o valor de B: <input type="text" name="numB" id="numB"></label>
+            <label for="numC" class="campo">Digite o valor de C: <input type="text" name="numC" id="numC"></label>
             <button type="submit">Enviar</button>
         </form>
         <?php 
